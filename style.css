@@ -1,0 +1,8 @@
+.jumbotron {
+  padding-top: 15px;
+  background-color: rgb(216, 243, 250);
+}
+
+.nav-item:after {
+  content: "";
+}
